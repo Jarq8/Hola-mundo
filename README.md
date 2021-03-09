@@ -1,4 +1,4 @@
 # Hola-mundo
-# Mi primer repositorio
-# Hola, 
-# soy Juan y estoy aprendiendo a programar.
+ Mi primer repositorio
+ Hola
+ Soy Juan y estoy aprendiendo a programar.
